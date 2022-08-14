@@ -1,4 +1,6 @@
-﻿namespace CAAbstractVsInterface
+﻿using CAAbstractVsInteface;
+
+namespace CAAbstractVsInterface
 {
     class Program
     {
